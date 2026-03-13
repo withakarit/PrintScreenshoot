@@ -79,10 +79,9 @@ Servidor simples em Python que gera um download de imagem aleatória.
 ## Instalação
 
 ```bash
-git clone https://github.com/seuusuario/random-download-server
+git clone https://github.com/withakarit/PrintScreenshoot
 cd random-download-server
 pip install -r requirements.txt
 python app.py
 
 http://localhost:5000/download
-
